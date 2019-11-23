@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shizhenqiang.design_gupao.DesignGupaoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.438 s - in com.shizhenqiang.design_gupao.DesignGupaoApplicationTests
